@@ -2,7 +2,7 @@
 
 This repository contains all projects completed during my DecodeLabs Cybersecurity Internship.
 
-## 🔐 Task-1-Pranay
+## 🔐 Project 1 - Password Strenght Checker
 A Python tool that evaluates password strength based on security rules.
 
 ## 🔒 Project 2 - DarkCipher
